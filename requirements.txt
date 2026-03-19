@@ -1,0 +1,13 @@
+streamlit
+numpy
+pandas
+scikit-learn
+joblib
+librosa
+SpeechRecognition
+transformers
+torch
+spacy
+nltk
+vaderSentiment
+soundfile
